@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Precious You☆",
+  "base_artist": "システィーナ＝フィーベル(CV：藤田 茜)、ルミア＝ティンジェル(CV:宮本侑芽)、リィエル＝レイフォード(CV：小澤亜李)",
+  "createdAt": "2026-02-06T10:46:53.993441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Don't Know How Precious You Are",
+      "artist": "Rob Scallon",
+      "has_synced": true,
+      "path": "select/01_You_Don't_Know_How_Precious_You_Are_Rob_Scallon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Precious You☆",
+      "artist": "システィーナ＝フィーベル(CV：藤田 茜)、ルミア＝ティンジェル(CV:宮本侑芽)、リィエル＝レイフォード(CV：小澤亜李)",
+      "has_synced": true,
+      "path": "select/02_Precious_You☆_システィーナ=フィーベル(CV_藤田_茜)、ルミア=ティンジェル(CV_宮本侑芽)、リィエル=レイフォード(CV_小澤亜李).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Precious You☆",
+      "artist": "システィーナ=フィーベル(CV:藤田 茜)、ルミア=ティンジェル(CV:宮本侑芽)、リィエル=レイフォード(CV:小澤亜李)",
+      "has_synced": false,
+      "path": "select/03_Precious_You☆_システィーナ=フィーベル(CV_藤田_茜)、ルミア=ティンジェル(CV_宮本侑芽)、リィエル=レイフォード(CV_小澤亜李).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How Precious You Are",
+      "artist": "Gilead",
+      "has_synced": false,
+      "path": "select/04_How_Precious_You_Are_Gilead.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Precious You☆",
+      "artist": "システィーナ゠フィーベル(CV:藤田茜)、ルミア゠ティンジェル(CV:宮本侑芽)、リィエル゠レイフォード(CV:小澤亜李)",
+      "has_synced": true,
+      "path": "select/05_Precious_You☆_システィーナ゠フィーベル(CV_藤田茜)、ルミア゠ティンジェル(CV_宮本侑芽)、リィエル゠レイフォード(CV_小澤亜李).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Precious You☆",
+      "artist": "システィーナ゠フィーベル(CV:藤田茜)、ルミア゠ティンジェル(CV:宮本侑芽)、リィエル゠レイフォード(CV:小澤亜李)",
+      "has_synced": true,
+      "path": "select/06_Precious_You☆_システィーナ゠フィーベル(CV_藤田茜)、ルミア゠ティンジェル(CV_宮本侑芽)、リィエル゠レイフォード(CV_小澤亜李).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Precious You",
+      "artist": "システィーナ＝フィーベル(CV：藤田 茜)、ルミア＝ティンジェル(CV 宮本侑芽)、リィエル＝レイフォード(CV：小澤亜李",
+      "has_synced": true,
+      "path": "select/07_Precious_You_システィーナ=フィーベル(CV_藤田_茜)、ルミア=ティンジェル(CV_宮本侑芽)、リィエル=レイフォード(CV_小澤亜李.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PRECIOUS YOU",
+      "artist": "OKISO",
+      "has_synced": true,
+      "path": "select/08_PRECIOUS_YOU_OKISO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Precious You☆",
+      "artist": "システィーナ=フィーベル(CV:藤田 茜)、ルミア=ティンジェル(CV:宮本侑芽)、リィエル=レイフォード(CV:小澤亜李)",
+      "has_synced": false,
+      "path": "select/pl_01_Precious_You☆_システィーナ=フィーベル(CV_藤田_茜)、ルミア=ティンジェル(CV_宮本侑芽)、リィエル=レイフォード(CV_小澤亜李).txt"
+    }
+  ]
+}
